@@ -1,0 +1,6 @@
+{
+  "name": "The Atrium Live",
+  "description": "Premium event and entertainment venue presenting contemporary sophistication, Weddings, Corporate, and Live events.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
